@@ -12,8 +12,9 @@
 -->
 <div>
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=larinhab&show_icons=truee&theme=ambient_gradient"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larinhab&size_weight=0.5&count_weight=0.5&layout=donut"/>
+<img height="200" align="center"  src="https://github-readme-stats.vercel.app/api?username=larinhab&show_icons=truee&theme=ambient_gradient"/>
+<img height="200" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=larinhab&size_weight=0.5&count_weight=0.5&layout=donut"/>
+
 </div>
 
 ## MY DOMAIN LANGUEGES 
@@ -34,6 +35,7 @@
 </div>
 
 ##MY INTERESTS LANGUEGES
+
 <div style="display: inline_block"><br>
   
   <img align="center" alt="lara.TYPEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -44,6 +46,7 @@
 </div>
 
 ## CONTACT LINKS
+
 <div>
   <a href="linkedin.com/in/lara-barbosa-viana-813428230/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
