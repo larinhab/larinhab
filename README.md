@@ -13,28 +13,28 @@
 <div>
   
 <img height="200" align="center"  src="https://github-readme-stats.vercel.app/api?username=larinhab&show_icons=truee&theme=ambient_gradient"/>
-<img height="200" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=larinhab&size_weight=0.5&count_weight=0.5&layout=donut"/>
+<img height="200" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=larinhab&size_weight=0.5&count_weight=0.5&layout=donut&theme=ambient_gradient"/>
 
 </div>
 
-## MY DOMAIN LANGUEGES 
+## MY DOMAIN LANGUEGES: 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="lara.HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="lara.CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img align="center" alt="lara.JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="lara.REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="lara.HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> -
+  <img align="center" alt="lara.CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> -
+  <img align="center" alt="lara.JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> -
+  <img align="center" alt="lara.REACT" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> -
   
-  <img align="center" alt="lara.NODE" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" alt="lara.NODE" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> -
 
-  <img align="center" alt="lara.ILLU" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
-  <img align="center" alt="lara.FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="lara.ILLU" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" /> -
+  <img align="center" alt="lara.FIGMA" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> -
   
-  <img align="center" alt="lara.GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="lara.HUB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="center" alt="lara.GIT" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> -
+  <img align="center" alt="lara.HUB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> -
 </div>
 
-##MY INTERESTS LANGUEGES
+## MY INTERESTS LANGUEGES:
 
 <div style="display: inline_block"><br>
   
@@ -45,7 +45,7 @@
   
 </div>
 
-## CONTACT LINKS
+## CONTACT LINKS:
 
 <div>
   <a href="linkedin.com/in/lara-barbosa-viana-813428230/" target="_blank">
@@ -64,4 +64,5 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> 
 </a> 
 </div>
+
 
